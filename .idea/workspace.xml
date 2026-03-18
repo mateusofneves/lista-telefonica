@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e30c57e-6395-4c71-a53c-9986433555dd" name="Changes" comment="sistema-lista-contatos" />
+    <list default="true" id="2e30c57e-6395-4c71-a53c-9986433555dd" name="Changes" comment="sistema-lista-contatos">
+      <change beforePath="$PROJECT_DIR$/lista-telefonica/lista-telefonica.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +120,7 @@
       <workItem from="1773626297193" duration="4067000" />
       <workItem from="1773705303745" duration="3122000" />
       <workItem from="1773793732275" duration="935000" />
-      <workItem from="1773794704556" duration="644000" />
+      <workItem from="1773794704556" duration="945000" />
     </task>
     <task id="LOCAL-00001" summary="sistema-lista-contatos">
       <option name="closed" value="true" />
