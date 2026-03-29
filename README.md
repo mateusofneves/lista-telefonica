@@ -1,8 +1,8 @@
-# 📞 Lista Telefônica em Python
+# Lista Telefônica em Python
 
 Projeto desenvolvido em Python com o objetivo de praticar lógica de programação e manipulação de dados.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Adicionar contatos
 - Visualizar contatos
@@ -10,15 +10,15 @@ Projeto desenvolvido em Python com o objetivo de praticar lógica de programaç�
 - Excluir contatos
 - Armazenamento simples de dados
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python
 
-## 📚 Objetivo
+## Objetivo
 
 Este projeto foi criado para reforçar conceitos de programação, como estruturas de dados, funções e organização de código.
 
-## ▶️ Como executar
+## Como executar
 
 1. Clone o repositório:
 ```bash
